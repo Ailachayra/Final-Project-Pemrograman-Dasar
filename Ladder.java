@@ -5,11 +5,11 @@
  * Group Capstone Project: Snake and Ladder Game
  * -----------------------------------------------------
  * Class    : D
- * Group    : XX
+ * Group    : 14
  * Members  :
- * 1. Student ID - Full Name
- * 2. Student ID - Full Name
- * 3. Student ID - Full Name
+ * 1. 5026231 - Jhonatan Berlianto
+ * 2. 5026231229 - Lailatul Fitaliqoh
+ * 3. 5026231232 - Bara Ardiwinata
  * ------------------------------------------------------
  */
 
